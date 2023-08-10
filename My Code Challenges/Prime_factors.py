@@ -17,4 +17,5 @@ def get_prime_factors(number):
 print(get_prime_factors(14))
 print(get_prime_factors(45))
 print(get_prime_factors(67))
+print(get_prime_factors(93))
 print(get_prime_factors(60))
