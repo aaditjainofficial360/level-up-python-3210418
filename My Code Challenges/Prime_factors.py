@@ -1,3 +1,5 @@
+'''Getting a list of  unique prime factors'''
+
 def get_prime_factors(number):
     factors = []
     prime_factors = []
